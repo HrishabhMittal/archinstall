@@ -9,7 +9,7 @@ TIMEZONE="Asia/Kolkata"
 HOST_NAME="arch"
 USER_NAME="user"
 BOOT_SIZE=100   # in MB
-AP_SIZE=4     # in GB
+SWAP_SIZE=4     # in GB
 
 echo "#####################################"
 echo "######### SETTING UP DISK ###########"
